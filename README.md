@@ -1,2 +1,2 @@
-# rel-gio
+# relógio
 Relógio analógico feito com OpenGL
